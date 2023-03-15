@@ -9,4 +9,6 @@ At university we primarily used Java in my computer science courses, R in my mat
 ### 📲 My Projects
 Feel free to have a look at a project I completed, which is a web application for CS50W that you may find in my [Public](https://github.com/matbishop/Public/tree/main/capstone) repository.  
 
-Feel free to contact me at matbishopsa@gmail.com
+<hr>
+
+Feel free to contact me: matbishopsa@gmail.com
