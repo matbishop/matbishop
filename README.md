@@ -7,4 +7,4 @@ I'm Matthew Bishop, a Stellenbosch University graduate. I hold a bachelors degre
 During my formal studies we mainly used Java in my Computer Science courses, R in my Mathematical Statistics courses and SAS in my Financial Engineering courses. In my personal capacity I have pursued learning Python, SQL, JavaScript, HTML, CSS and Django.
 
 ### 📲 My Projects
-Please find some of my more recent projects in my [Public](https://github.com/matbishop/Public/tree/main/capstone) repository. If you would like to contact me, please feel free to send me an email: [mat@matbishop.tech](mailto: mat@matbishop.tech)
+Please find some of my more recent projects in my [Public](https://github.com/matbishop/Public/tree/main/capstone) repository. If you would like to contact me, please feel free to send me an email: [mat@matbishop.tech](mailto:%20mat@matbishop.tech)
