@@ -1,7 +1,7 @@
 # Welcome! 👋🏻
 
 ### 👨🏼‍💻 About Me
-I'm Matthew Bishop, a Stellenbosch University graduate. I hold a bachelor's degree in Mathematical Sciences, which I finished in June 2022. Since then, I have devoted my time to improving my software development skills. If you would like to learn more about me, please visit my website: [matbishop.tech](https://matbishop.tech)
+I'm Matthew Bishop, a Stellenbosch University graduate. I hold a bachelor's degree in Mathematical Sciences, which I finished in July 2022. Since then, I have devoted my time to improving my software development skills. If you would like to learn more about me, please visit my website: [matbishop.tech](https://matbishop.tech)
 
 ### 🔧 Technologies
 During my formal studies I predominantly used Java in Computer Science, R in Mathematical Statistics and SAS in Financial Engineering. In my personal capacity I pursued learning Python, JavaScript, SQL, HTML, CSS and Django in addition to tools such as Git and Docker.
